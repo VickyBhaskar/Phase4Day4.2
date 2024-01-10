@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\obj\Debug\net6.0\ConsAppTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\obj\Debug\net6.0\ConsAppTwo.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\obj\Debug\net6.0\ConsAppTwo.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\obj\Debug\net6.0\ConsAppTwo.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\bin\Debug\net6.0\ConsAppTwo.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\bin\Debug\net6.0\ConsAppTwo.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\bin\Debug\net6.0\ConsAppTwo.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\bin\Debug\net6.0\ConsAppTwo.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\bin\Debug\net6.0\ConsAppTwo.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\obj\Debug\net6.0\ConsAppTwo.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\obj\Debug\net6.0\refint\ConsAppTwo.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\obj\Debug\net6.0\ConsAppTwo.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\obj\Debug\net6.0\ConsAppTwo.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTwo\ConsAppTwo\obj\Debug\net6.0\ref\ConsAppTwo.dll
